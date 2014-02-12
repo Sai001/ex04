@@ -1,0 +1,70 @@
+brouillon pour ex04_03
+
+var birthhour = 12
+var todayhour = 12
+
+//try 1 **
+
+main() {
+  
+  var birthyear = 1989;
+  var birthmonth = 07;
+  var birthday = 31;
+  var adjust = 0;
+
+  var todayyear = 2014;
+  var todaymonth = 02;
+  var todayday = 12;
+  if (birthmonth - todaymonth > 0) var adjust = 1;
+  else if (birthmonth - todaymonth < 0) var adjust = 0 ;
+  
+var yearpassed = todayyear - birthyear - adjust ;
+var monthpassed = todaymonth - birthmonth;
+var dayspassed = todayday - birthday;
+
+print('the time passed is : year $yearpassed, month $monthpassed and days $dayspassed');  
+}
+
+//end try 1
+
+//try 2 **
+
+var daysinayear = 365;
+  var hoursinyear
+  
+ //end try 2
+ 
+ //ex05 try 1
+ main() {
+  //puisque c'est la table du douze, ou défini la variable table comme ayant la valeur 12, si on voulait une autre table, on changerais la valeur de la variable table
+  var table = 12;
+  var s = '';
+  for (var i = 0; i < 21; i++) {
+    s = '$s $i ';
+  }
+  print(s);
+  
+  var xsign = 'x';
+  print(xsign);
+  
+  var d = '';
+  for (var i = 0; i < 21; i++) {
+    d = '$d 12';
+  }
+  print(d);
+  
+  var rsign = '=';
+  print(rsign);
+  
+  var r = '';
+  for (var i = 0; i < 21; i++) {
+    r = '$r $i * $table';
+  }
+  
+  print(r);
+  
+}
+
+
+//COPYRIGHTS Dzenan Ridjanovic : https://github.com/dzenanr
+//**end ex05 try 1
