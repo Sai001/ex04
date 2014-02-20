@@ -1,0 +1,27 @@
+ex04
+16/20
+
+ex04_01
+
+COPYRIGHTS Dzenan Ridjanovic : [DArt Pen](https://github.com/dzenanr)
+dr: il s'agit d'un autre projet
+
+only change done was int count : was 13 is now 10
+dr: la prochaine fois, d'autres changements s'il vous plaît
+
+ex04_02
+
+(-4) pas fait
+
+ex04_03
+
+the time passed is : year 24, month 7 and days -19
+dr: -19 ?
+
+ex04_05
+
+COPYRIGHTS Dzenan Ridjanovic : [DArt Pen](https://github.com/dzenanr)
+dr: il s'agit d'un autre projet
+
+
+
